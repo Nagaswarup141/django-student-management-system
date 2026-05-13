@@ -1,3 +1,4 @@
+
 # 📚 EduTrack — Student Management System
 
 ## 📁 Project Structure
@@ -65,3 +66,7 @@ python manage.py runserver
 
 
 **Login:** `admin` / `admin123`
+
+# django-student-management-system
+A full stack Student Management System built with Django framework featuring authentication, student data management, CRUD operations, responsive frontend design, and backend database integration.
+
