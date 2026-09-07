@@ -24,24 +24,24 @@ FinalProject/
 
 ## 🚀 Run (Windows)
 
-### Step 1 — MySQL Database Create Cheyyi
+### Step 1 — MySQL Database
 ```sql
 CREATE DATABASE sms_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
 
-### Step 2 — VS Code lo Django_API Open Cheyyi
+### Step 2 — VS Code
 ```
 File → Open Folder → Django_API
 ```
 
-### Step 3 — Terminal lo Run Cheyyi (oka okati)
+### Step 3 — Run in Terminal
 ```bash
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Step 4 — Environment Variables Set Cheyyi (every new terminal)
+### Step 4 — Set Environment Variables 
 ```bash
 $env:DB_PASSWORD="Naga123@#"
 $env:DB_NAME="sms_db"
